@@ -1,0 +1,61 @@
+
+  
+  .card{
+    height: 200px !important;
+    background-image: url(/public/ayra.jpg);
+    width: 200px !important;
+    border-radius: 20px !important;
+    filter: brightness(0.8);
+  }
+
+  .card2{
+    height: 200px !important;
+    background-image: url(/public/omah.jpeg);
+    width: 200px !important;
+    border-radius: 20px !important;
+    filter: brightness(0.8);
+  }
+  .card3{
+    height: 280px !important;
+    margin-top: -50px;
+    background-image: url(/public/rema.webp);
+    width: 200px !important;
+    background-position: center;
+    border-radius: 20px !important;
+    filter: brightness(0.8);
+  }
+  .card4{
+    height: 200px !important;
+    background-image: url(/public/tiwa.jpeg);
+    background-position: top;
+    width: 200px !important;
+    border-radius: 20px !important;
+    filter: brightness(0.8);
+  }
+  .card5{
+    height: 200px !important;
+    background-image: url(/public/wiz21.jpg);
+    width: 200px !important;
+    border-radius: 20px !important;
+    background-position:bottom;
+    filter: brightness(0.8);
+  }
+
+  .i-style{
+    color: "red";
+    background-color: "white";
+    height: "50px" ;
+    width: "50px" ;
+    border-radius: 50%; 
+  }
+  h5{
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h6{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  }
